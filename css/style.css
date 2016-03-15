@@ -1,7 +1,9 @@
 body {
-	background: red;
+
+	
 	width: 970px;
 	margin: 0 auto;
+	background: greenyellow;
 }
 
 h1{
@@ -10,4 +12,11 @@ h1{
 
 p{
 	font-size: 24px;
+
+	
+}
+
+h1{
+	font-size: 80px;
+
 }
